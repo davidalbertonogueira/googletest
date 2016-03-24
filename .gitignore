@@ -1,2 +1,6 @@
 # Ignore CI build directory
 build/
+googletest/msvc/*.opendb
+googletest/msvc/*.opensdf
+googletest/msvc/*.sdf
+googletest/msvc/*.cachefile
